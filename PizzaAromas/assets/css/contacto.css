@@ -1,0 +1,41 @@
+.title-menu{
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+.contact{
+    padding-top: 4rem;
+    padding-left: 8rem;
+    padding-right: 8rem;
+    padding-bottom: 4rem;
+}
+
+.contact-bg{
+    background: #fff;
+    padding: 3rem; 
+}
+
+form label{ 
+    margin-top: 0.8rem;     
+    margin-bottom: 0rem;
+}
+
+.quick-contact-widget span{ 
+    margin-bottom: 0.6rem;  
+    line-height: 2; 
+    display: table; 
+    clear: both; 
+}
+
+.white-bg{ 
+    background: #fff; 
+}
+
+.icon{
+    width: 2rem;
+}
+
+.send{ 
+    padding: 0.5rem;
+    border: none;
+}
